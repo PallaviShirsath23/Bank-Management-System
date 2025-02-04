@@ -1,7 +1,7 @@
 #include<conio.h>
 #include<stdio.h>
 #include<iostream>
-using namespace ;
+using namespace std;
 
 class bank
 {
